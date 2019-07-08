@@ -23,5 +23,9 @@
 *.test
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
 main
 client-secret.json
+.env
+*coverage*
+reverse-proxy

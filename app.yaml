@@ -18,4 +18,4 @@ handlers:
   script: auto
   secure: always
 env_variables:
-  TARGET_HOST: https://xpau.se
+  TARGET_HOST: http://xpau.se
